@@ -3,7 +3,7 @@
 ```markdown
 # 🐞 Web Bug Hunting Checklist -- 2025 
 
-An interactive, modern **bug hunting and penetration testing checklist** designed for ethical hackers, penetration testers, and security researchers.  
+An interactive, modern ** web bug hunting and penetration testing checklist** designed for ethical hackers, penetration testers, and security researchers.  
 This project helps streamline security assessments by providing categorized checklists, tooltips with recommended tools, and progress tracking.
 
 ## 🚀 Features
@@ -57,6 +57,7 @@ Do **not** use these techniques on systems without proper authorization. Unautho
 ## 👨‍💻 Author
 
 **MD FAYJUL KABIR**
+
 Cybersecurity Enthusiast | Ethical Hacker | Penetration Tester | SOC Analyst L1
 
 📌 *If you find this useful, don’t forget to ⭐ star the repo and share it with the security community!*
@@ -69,4 +70,5 @@ Cybersecurity Enthusiast | Ethical Hacker | Penetration Tester | SOC Analyst L1
 
 Would you like me to also create a **badges section** (like GitHub stars, forks, license, etc.) so your repo looks even more professional?
 ```
+
 
